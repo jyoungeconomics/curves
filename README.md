@@ -13,4 +13,4 @@ Method 4: shift the class average to the specified/desired average
 
 Method 5: transform the grades with an affine function to achieve a specified minimum and average
 
-Finally, the code implements all 5 methods and stacks them side-by-side for the instructor to compare the distributions (e.g. desired proportion of A's, F's). Addiitonally, each row (student) is averaged across each column (curved grade for that studen) to give a "split the difference" curve between the 5 mechanisms. 
+Finally, the code implements all 5 methods and stacks them side-by-side for the instructor to compare the distributions (e.g. desired proportion of A's, F's). Addiitonally, each row (student) is averaged across each column (curved grade for that student) to give a "split the difference" curve between the 5 mechanisms. 
